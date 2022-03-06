@@ -1,0 +1,25 @@
+body {
+  background-color: green;
+}
+.btn {
+  width: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-around;
+  
+  
+}
+
+button {
+  width: 40%;
+  text-transform: uppercase;
+  background: transparent;
+  color: rgb(236,80,69);
+  justify-content: space-around;
+  display: flex;
+  flex-direction: row;
+  
+  border: none;
+  outline: none;
+}
